@@ -1,0 +1,29 @@
+{
+  "ApartmentData": {
+    "Footage": 50.0,
+    "RoomsCount": 1,
+    "ApartmentOptions": [
+      "Кухня"
+    ],
+    "ConstructionDate": "2025-02-25T16:23:41.8021591+03:00",
+    "Material": "Бетон",
+    "Floor": 4,
+    "PricePerMeter": 60,
+    "SaleDate": "2025-02-25T16:23:41.7541348+03:00"
+  },
+  "AddressData": {
+    "Country": "Беларусь",
+    "Town": "Минск",
+    "District": "Район",
+    "Street": "Улица",
+    "House": "4",
+    "Frame": "Корпус",
+    "Apartment": "52"
+  },
+  "DeveloperData": {
+    "DeveloperName": "ГлускMall",
+    "LegalAddress": "Юрид. адрес",
+    "INN": "ИНН"
+  },
+  "SelectedRadioButton": "IE"
+}
