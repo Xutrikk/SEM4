@@ -1,0 +1,47 @@
+.counter-container {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.counter-value {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+.buttons-container {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+
+.btn {
+  padding: 10px 20px;
+  font-size: 1rem;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+.btn:disabled {
+  cursor: not-allowed;
+  opacity: 0.5;
+}
+
+.btn:first-child {
+  background: #4caf50;
+  color: white;
+}
+
+.btn:first-child:hover:not(:disabled) {
+  background: #45a049;
+}
+
+.btn:last-child {
+  background: #f44336;
+  color: white;
+}
+
+.btn:last-child:hover:not(:disabled) {
+  background: #d32f2f;
+}
