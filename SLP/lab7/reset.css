@@ -1,0 +1,21 @@
+.reset-form {
+    max-width: 400px;
+    margin: 2rem auto;
+  }
+  
+  .reset-form button[type="submit"] {
+    background-color: #28a745;
+    width: 100%;
+    padding: 1rem;
+  }
+  
+  .reset-form button[type="submit"]:hover {
+    background-color: #218838;
+  }
+  .reset-form button[type="submit"] {
+    background: #20c997;
+  }
+  
+  .reset-form button[type="submit"]:hover {
+    background: #12b886;
+  }
