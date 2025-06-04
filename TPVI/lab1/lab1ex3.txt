@@ -1,4 +1,0 @@
-dotnet --version
-dotnet publish -c Release -o ./publish
-dotnet lab1tpvi.dll
-
